@@ -47,7 +47,9 @@ be enough for that purpose.
 By default, debug will be enabled. You can disable output by using the flag
 `silence`.
 
+```bash
 ./balancer 8000 8001 --silence
+```
 
 ## docker-compose
 
