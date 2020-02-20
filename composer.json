@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/console": "^5.0.0",
+        "react/event-loop": "*",
+        "react/socket": "*",
+        "react/stream": "*"
+    }
+}
